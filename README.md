@@ -3,8 +3,10 @@
 
 ## 🐛 ABOUT ME 🐛
 Hi, I'm Hyunmin!
-🔭 I’m currently working on UX Design(especially **Prototyping and Interaction) and Data Processing
-🌱 I’m currently learning React, Framer, Python and JavaScript
+
+🔭 I’m currently working on UX Design(especially **Prototyping and Interaction**) and Data Processing
+
+🌱 I’m currently learning **Framer**, React, Python and JavaScript
 
 major in **Global Media** of Soongsil Univ.
 
