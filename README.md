@@ -11,7 +11,7 @@ Hi, I'm Hyunmin!
 major in **Global Media** of Soongsil Univ.
 
 ## Contact
-[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://beautiful-cartoon-4b0.notion.site/Hyunmin-Kwon-KO-ed5902ca098f49989099c1a5e9345823)      [![Instagram](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_min_utopia/)  [![Mail](https://img.shields.io/badge/sally.k000102@gmail.com-e10915?style=flat-square&logo=Gmail&logoColor=white)](sally.k000102@gmail.com)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://minnyit.notion.site/Hyunmin-Kwon-KO-ed5902ca098f49989099c1a5e9345823)      [![Instagram](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_min_utopia/)  [![Mail](https://img.shields.io/badge/sally.k000102@gmail.com-e10915?style=flat-square&logo=Gmail&logoColor=white)](sally.k000102@gmail.com)
 
 ## 🛠 Technical Skills 🛠
 <p align="left">
