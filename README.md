@@ -1,30 +1,40 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9E,35:FFD166,70:7BDFF2,100:CDB4DB&height=220&section=header&text=HYUNMIN%20KWON&fontSize=50&fontAlignY=38&animation=twinkling&desc=Product%20Designer&descSize=18&descAlignY=56)
-
-# 기획·개발·데이터까지 이해하는 프로덕트 디자이너, 권현민입니다
-
-3년 차 프로덕트 디자이너로, 복잡한 도메인의 문제를 정의하고  
-사용자와 팀이 함께 움직일 수 있는 제품 경험으로 풀어냅니다.
-
-<a href="https://www.linkedin.com/in/hyunmin1220/">LinkedIn에서 더 보기</a>
-
-<br />
-<br />
-
-<img src="https://img.shields.io/badge/Product%20Design-FF6B9E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/B2B%20SaaS-FFD166?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI%20UX-7BDFF2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Data%20Analytics-CDB4DB?style=for-the-badge" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9E,35:FFD166,70:7BDFF2,100:CDB4DB&height=200&section=header&text=HYUNMIN%20KWON&fontSize=48&fontAlignY=38&animation=twinkling&desc=Product%20Designer&descSize=18&descAlignY=56)
 
 </div>
+
+<table>
+  <tr>
+    <td width="28%" align="center">
+      <img src="https://avatars.githubusercontent.com/u/37644132?v=4" width="150" style="border-radius: 50%;" />
+      <br />
+      <br />
+      <a href="https://www.linkedin.com/in/hyunmin1220/">LinkedIn</a>
+    </td>
+    <td width="72%" valign="middle">
+      <h2>기획·개발·데이터까지 함께 보는 프로덕트 디자이너</h2>
+      <p>
+        안녕하세요, 권현민입니다.<br />
+        복잡한 도메인의 문제를 빠르게 구조화하고,<br />
+        사용자와 팀이 함께 움직일 수 있는 제품 경험으로 풀어냅니다.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Product%20Design-FF6B9E?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/B2B%20SaaS-FFD166?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/AI%20UX-7BDFF2?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Data-CDB4DB?style=for-the-badge" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 한 줄로 말하면
 
-프로덕트를 깊이 이해하기 위해 기획, 개발, 데이터까지 함께 보는 디자이너입니다.  
-문제를 빠르게 구조화하고, 근거 있는 디자인으로 실제 변화를 만드는 일을 좋아합니다.
+프로덕트를 깊이 이해하기 위해 기획, 개발, 데이터까지 함께 보는 3년 차 프로덕트 디자이너입니다.  
+문제를 정의하고, 근거를 찾고, 실제 제품 변화로 이어지게 만드는 일을 좋아합니다.
 
 ---
 
@@ -33,8 +43,8 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>복잡한 도메인에서 문제를 정의합니다</h3>
-      <p>금융, 문서 편집, 온라인 팬미팅, B2B SaaS 등 낯선 도메인에서도 맥락을 빠르게 파고들어 핵심 문제를 찾습니다.</p>
+      <h3>복잡한 도메인을 빠르게 이해합니다</h3>
+      <p>금융, 문서 편집, 온라인 팬미팅, B2B SaaS 등 다양한 제품에서 문제를 정의하고 해결해 왔습니다.</p>
     </td>
     <td width="50%" valign="top">
       <h3>성과로 이어지는 UX를 만듭니다</h3>
@@ -44,7 +54,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>고객의 목소리를 제품에 반영합니다</h3>
-      <p>B2B SaaS 제품에서 고객사 VoC를 반영해 사용성을 개선하고, 계약 연장에 기여한 경험이 있습니다.</p>
+      <p>B2B SaaS에서 고객사 VoC를 반영해 사용성을 개선하고, 계약 연장에 기여한 경험이 있습니다.</p>
     </td>
     <td width="50%" valign="top">
       <h3>PM·엔지니어와 함께 움직입니다</h3>
@@ -86,33 +96,6 @@
 
 ---
 
-## 대표 저장소
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Hyunmin99/productdesign-portfolio">productdesign-portfolio</a></h3>
-      <p>프로덕트 디자인 포트폴리오를 준비하며 경력, 프로젝트, 자기소개 문장을 정리합니다.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Hyunmin99/salesmap-design">salesmap-design</a></h3>
-      <p>B2B CRM과 AI 기능을 설계하며 작업 로그와 디자인 탐색을 기록합니다.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Hyunmin99/ai-native-design">ai-native-design</a></h3>
-      <p>AI 시대의 제품 경험과 디자인 방식을 탐색합니다.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Hyunmin99/i-want-tobe-toss-designer">i-want-tobe-toss-designer</a></h3>
-      <p>제품 사고와 디자인 과제를 깊게 훈련합니다.</p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## Skill + Tools
 
 ### Design & Prototyping
@@ -140,8 +123,6 @@
 
 <div align="center">
 
-### 선명한 구조와 밝은 에너지로, 제품이 앞으로 나아가게 만듭니다.
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:CDB4DB,35:7BDFF2,70:FFD166,100:FF6B9E&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:CDB4DB,35:7BDFF2,70:FFD166,100:FF6B9E&height=100&section=footer)
 
 </div>
